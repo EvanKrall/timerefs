@@ -42,7 +42,7 @@ This is a similar concept to time transfer, but the goal is to keep the local os
 
 #### TAI, UTC, and leap seconds
 
-There are many valid systems of time: (from [Systems of Time Time Service Department, U.S. Naval Observatory, Washington, DC](http://tycho.usno.navy.mil/systime.html))
+There are many valid systems of time: (from [Systems of Time Time Service Department, U.S. Naval Observatory](http://tycho.usno.navy.mil/systime.html))
 
 > - Atomic Time , with the unit of duration the Systeme International (SI) second defined as the duration of 9,192,631,770 cycles of radiation corresponding to the transition between two hyperfine levels of the ground state of cesium 133. TAI is the International Atomic Time scale, a statistical timescale based on a large number of atomic clocks.
 > - Universal Time (UT) is counted from 0 hours at midnight, with unit of duration the mean solar day, defined to be as uniform as possible despite variations in the rotation of the Earth.

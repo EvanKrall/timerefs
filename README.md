@@ -19,7 +19,7 @@ Examples of time references:
 ### Frequency reference
 
 A frequency reference, or oscillator, is anything that produces a signal of a known frequency.
-Unlike a time reference, a frequency reference
+Unlike a time reference, a frequency reference does not provide the current time; only that a certain amount of time has passed since the last cycle.
 
 Examples of frequency references:
  - The rotation of the Earth.

@@ -2,6 +2,10 @@
 
 The goal of this project is to compare different time and frequency references.
 
+### Turns out someone beat me to the punch
+
+So I've procrastinated on actually starting this project for 7 years or so, and someone actually went and built it: https://github.com/jp3141/60Hz
+
 ## But first, a brief essay on time and frequency.
 
 ### Time reference
